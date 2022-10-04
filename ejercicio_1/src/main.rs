@@ -102,6 +102,4 @@ Presenta el promedio anual, los mejores meses y el mes de mayor producción.");
     println!(">> El mejor mes fue {} con una producción de {} toneladas de arroz.", 
     mejores_meses[numero_magico as usize], produccion_arroz[numero_magico as usize]);
 
-
-
 }
